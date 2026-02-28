@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Tanmoy Saha 👋
+Business/Data Analyst (MS Business Analytics) focused on SQL, R-Programming, Python, and BI dashboards.
 
-<!--
-**tsturja/tsturja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
+- Data cleaning + transformation (SQL/Python/R)
+- Exploratory analysis + insights
+- Dashboards (Tableau)
+- Basic predictive modeling (as needed)
 
-Here are some ideas to get you started:
+### Skills
+SQL | Python (Pandas, NumPy) | Power BI/Tableau | Excel | Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+LinkedIn: <https://linkedin.com/in/tsturja>
+Email: <tsturja88@gmail.com>
