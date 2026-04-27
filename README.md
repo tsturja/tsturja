@@ -8,7 +8,7 @@ Business/Data Analyst (MS Business Analytics) focused on SQL, R-Programming, Pyt
 - Basic predictive modeling (as needed)
 
 ### Skills
-SQL | Python (Pandas, NumPy) | Power BI/Tableau | Excel | Statistics
+SQL | Python (Pandas, NumPy) | Tableau | Excel | Statistics
 
 ### Contact
 LinkedIn: <https://linkedin.com/in/tsturja>
